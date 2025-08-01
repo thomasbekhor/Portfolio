@@ -6,44 +6,6 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 
 ## Projects
 
-### [Sales Dashboard with Power BI](https://github.com/FernandoBichuette/Portfolio/tree/main/PowerBI)
-
-**Description:** This project involved the creation of an interactive sales dashboard using Power BI. The goal was to transform raw data into clear and informative visual insights, covering various sales metrics such as total revenue, regional performance, and trend analysis over time.
-
-**Technologies Used:** Power BI, Data Visualization, Business Intelligence
-
-**Challenges and Solutions:**
-
-* **Data Transformation:** One of the main challenges was cleaning and preparing the data for analysis. Various transformations were applied to ensure data accuracy and consistency, including removing duplicates, handling null values, and formatting dates.
-* **Creating Impactful Visuals:** Creating visuals that were both informative and visually appealing was essential. Using Power BI's advanced features, dynamic and interactive charts were developed to facilitate data understanding.
-* **Report Automation:** Implementation of DAX functions to automate metric calculations and create reports that update automatically as data changes.
-
-**Results:** The final dashboard provides a comprehensive view of sales, allowing users to explore data interactively and gain valuable insights into sales performance across regions and periods. This project demonstrated advanced skills in Power BI, including data manipulation and effective visualization creation.
-
-![Sales Dashboard](img/dashboard.png)
-
----
-
-### [Autonomous UGV Development](https://github.com/pfeinsper/unmaned-ground-vehicle-2024.1)
-
-**Description:** Project in partnership with Embrapa for the development of an Unmanned Ground Vehicle (UGV) focused on monitoring aphids in fruit and forest crops.
-
-**Technologies Used:** Python, Robotics and Automation, LIDAR Sensors, GPS, Sensor Fusion.
-
-**Challenges and Solutions:**
-
-* **Sensor Integration:** Overcome by implementing a sensor fusion system using Kalman filters.
-* **Navigation Calibration:** Suspension adjustments and adaptive control algorithms for stability on rough terrain.
-* **Energy Efficiency:** Optimized power management with solar panels and control software.
-* **Data Communication:** Mesh network communication system for stable data transmission.
-
-**Results:** Fully functional autonomous vehicle, field-tested, operating autonomously for extended periods.
-
-<p align="center">
-<img src="img/Rover1.png" width="400px" />     <img src="img/Rover2.png" width="283px" />
-</p>
-
----
 
 ### [Chess-Playing Robot](https://github.com/FernandoBichuette/Projeto-Xadrez.git)
 
@@ -66,7 +28,7 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 
 ---
 
-### [Automatic Pipetting Machine](https://github.com/FernandoBichuette/Projeto-Mecatronico)
+### [Automatic Pipetting Machine](https://github.com/thomasbekhor/Electronic-Pipetting-System)
 
 **Description:** Development of an automatic pipetting machine to optimize laboratory processes.
 
@@ -85,8 +47,8 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 
 ---
 
-### [Assembly Line Automation](https://github.com/FernandoBichuette/automation_project)
-
+### [Assembly Line Automation]
+July 2023
 **Description:** Project focused on optimizing an electronic device assembly line using the Automation Pyramid and the creation of a Digital Twin.
 
 **Technologies Used:** PLCs, SCADA, MES, Digital Twin.
@@ -98,26 +60,29 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 
 **Results:** Efficient automation system with monitoring and control of availability, performance, and quality.
 
-***Final result link:*** [https://www.youtube.com/watch?v=bG43Epv7mO8](https://www.youtube.com/watch?v=bG43Epv7mO8)
+***Final result link:*** [https://youtu.be/Q_xVt77PHuE](https://youtu.be/Q_xVt77PHuE)
 
 ---
 
-### [Real Estate Market Analysis and Predictive Modeling](https://github.com/arthurfc12/Projeto3CDados)
+### [Junior Consulting Club - Exploratory Analysis and Predictive Modeling](https://github.com/thomasbekhor/Exploratory-and-Predictive-Analysis)
+December 2022
+**Description:**
+This project focuses on understanding and predicting property prices in São Paulo through **exploratory data analysis** and **machine learning**. The main goal is to extract insights from real estate data and build models that can forecast property values effectively.
 
-**Description:** Exploratory analysis and predictive modeling of São Paulo’s real estate market using Machine Learning techniques.
-
-**Technologies Used:** Python, Random Forest, Data Analysis.
+**Technologies Used:**
+Python, Pandas, Scikit-learn, Random Forest, Data Visualization
 
 **Challenges and Solutions:**
 
-* **Data Segmentation:** Careful data analysis to identify patterns and create an efficient predictive model.
-* **Model Selection:** Implementation and validation of different machine learning models to optimize results.
+* **Data Segmentation:** Divided and analyzed the dataset by key variables (e.g., neighborhood, size, price range) to identify trends and improve model performance.
+* **Model Selection:** Tested multiple machine learning models, comparing their accuracy and interpretability. Chose Random Forest for its balance between performance and robustness.
 
-**Results:** Efficient predictive model providing valuable insights into São Paulo’s real estate market dynamics.
+**Results:**
+The final model accurately predicts housing prices and reveals valuable patterns in São Paulo’s real estate market, supporting better decision-making for buyers, sellers, or investors.
 
 ---
 
 ## Contact
 
-* [LinkedIn](https://www.linkedin.com/in/fernando-bichuette-assumpcao/)
-* [GitHub](https://github.com/FernandoBichuette)
+* [LinkedIn](https://www.linkedin.com/in/thomas-bekhor/)
+* [GitHub](https://github.com/thomasbekhor)
