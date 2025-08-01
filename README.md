@@ -4,7 +4,7 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 
 ---
 
-## Projects
+## Projects - Computer Vision
 
 ### [Word Search Puzzle Solver - July 2024](https://github.com/thomasbekhor/Computer-Vision-Project)
 
@@ -23,23 +23,6 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 <p align="center">
 <img src="img/WordPuzzleSolver1.png" width="300px" />     <img src="img/WordPuzzleSolver2.png" width="225px" />  <img src="img/WordPuzzleSolver3.png" width="225px" />
 </p>
-
----
-
-### Rockwell Automation Tool - July 2024
-
-**Description:** Development of an industrial IoT application using ThingWorx to optimize internal processes at Rockwell Automation. The project focused on creating a scalable and flexible software architecture, enabling cross-industry adaptability through object-oriented programming.
-
-**Technologies Used:** ThingWorx, IoT, Object-Oriented Programming, JavaScript, Mashups.
-
-**Challenges and Solutions:**
-
-* **Generic and Scalable Design:** Designed a modular and reusable codebase using object-oriented principles, allowing easy adaptation to different industrial scenarios.
-* **Cross-Industry Compatibility:** Built a flexible class structure that abstracts key functionalities, reducing rework when applying the solution to similar processes in other industries.
-
-**Results:** Successfully delivered a multi-industrial IoT solution that reduces development time for new applications and improves process efficiency through reusable logic and components.
-
-***Final result link:*** [https://youtu.be/tuvdFR9VjmY](https://youtu.be/tuvdFR9VjmY)
 
 ---
 
@@ -62,6 +45,27 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 
 ---
 
+## Projects - IoT
+
+### Rockwell Automation Tool - July 2024
+
+**Description:** Development of an industrial IoT application using ThingWorx to optimize internal processes at Rockwell Automation. The project focused on creating a scalable and flexible software architecture, enabling cross-industry adaptability through object-oriented programming.
+
+**Technologies Used:** ThingWorx, IoT, Object-Oriented Programming, JavaScript, Mashups.
+
+**Challenges and Solutions:**
+
+* **Generic and Scalable Design:** Designed a modular and reusable codebase using object-oriented principles, allowing easy adaptation to different industrial scenarios.
+* **Cross-Industry Compatibility:** Built a flexible class structure that abstracts key functionalities, reducing rework when applying the solution to similar processes in other industries.
+
+**Results:** Successfully delivered a multi-industrial IoT solution that reduces development time for new applications and improves process efficiency through reusable logic and components.
+
+***Final result link:*** [https://youtu.be/tuvdFR9VjmY](https://youtu.be/tuvdFR9VjmY)
+
+---
+
+## Projects - Embedded Systems
+
 ### [Automatic Pipetting Machine - December 2022](https://github.com/thomasbekhor/Electronic-Pipetting-System)
 
 **Description:** Development of an automatic pipetting machine to optimize laboratory processes.
@@ -83,6 +87,8 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 
 ---
 
+## Projects - Digital Twin
+
 ### Assembly Line Automation - July 2023
 
 **Description:** Project focused on optimizing an electronic device assembly line using the Automation Pyramid and the creation of a Digital Twin.
@@ -99,6 +105,8 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 ***Final result link:*** [https://youtu.be/Q_xVt77PHuE](https://youtu.be/Q_xVt77PHuE)
 
 ---
+
+## Projects - Data Science
 
 ### [Junior Consulting Club - Exploratory Analysis and Predictive Modeling - December 2022](https://github.com/thomasbekhor/Exploratory-and-Predictive-Analysis)
 
