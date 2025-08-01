@@ -1,4 +1,4 @@
-# Portfolio of Thomas Bekhor - July 2025
+# Portfolio of Thomas Bekhor - updated in July 2025
 
 Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Institute, São Paulo. This portfolio brings together some of the most significant projects I have developed throughout my academic and professional journey.
 
@@ -7,13 +7,11 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 ## Projects
 
 
-### [Chess-Playing Robot](https://github.com/FernandoBichuette/Projeto-Xadrez.git)
-
-**Period:** Aug 2023 – Dec 2023
+### [Chess-Playing Robot - December 2023](https://github.com/FernandoBichuette/Projeto-Xadrez.git)
 
 **Description:** Development of a chess-playing robot that integrates computer vision and the Stockfish engine to interpret and respond to the opponent's moves.
 
-**Technologies Used:** Python, Computer Vision, Image Processing, Stockfish.
+**Technologies Used:** Python, Computer Vision, Image Processing, Stockfish, UR Robots.
 
 **Challenges and Solutions:**
 
@@ -28,7 +26,7 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 
 ---
 
-### [Automatic Pipetting Machine](https://github.com/thomasbekhor/Electronic-Pipetting-System)
+### [Automatic Pipetting Machine - December 2022](https://github.com/thomasbekhor/Electronic-Pipetting-System)
 
 **Description:** Development of an automatic pipetting machine to optimize laboratory processes.
 
@@ -41,14 +39,16 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 
 **Results:** Functional prototype that improves efficiency and accuracy in pipetting processes.
 
+***Final result link:*** [https://youtu.be/ghOscyaO3Fg](https://youtu.be/ghOscyaO3Fg)
+
 <p align="center">
 <img src="img/Pipetadora_automatica.jpg" width="300px" />     <img src="img/Pipetadora_automatica_2.jpg" width="225px" />
 </p>
 
 ---
 
-### [Assembly Line Automation]
-July 2023
+### Assembly Line Automation - July 2023
+
 **Description:** Project focused on optimizing an electronic device assembly line using the Automation Pyramid and the creation of a Digital Twin.
 
 **Technologies Used:** PLCs, SCADA, MES, Digital Twin.
@@ -64,8 +64,8 @@ July 2023
 
 ---
 
-### [Junior Consulting Club - Exploratory Analysis and Predictive Modeling](https://github.com/thomasbekhor/Exploratory-and-Predictive-Analysis)
-December 2022
+### [Junior Consulting Club - Exploratory Analysis and Predictive Modeling - December 2022](https://github.com/thomasbekhor/Exploratory-and-Predictive-Analysis)
+
 **Description:**
 This project focuses on understanding and predicting property prices in São Paulo through **exploratory data analysis** and **machine learning**. The main goal is to extract insights from real estate data and build models that can forecast property values effectively.
 
