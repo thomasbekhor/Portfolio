@@ -7,7 +7,7 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 ## Projects
 
 
-### [Chess-Playing Robot - December 2023](https://github.com/FernandoBichuette/Projeto-Xadrez.git)
+### [Chess-Playing Robot - December 2023](https://github.com/thomasbekhor/Robotic-Chess-Player)
 
 **Description:** Development of a chess-playing robot that integrates computer vision and the Stockfish engine to interpret and respond to the opponent's moves.
 
