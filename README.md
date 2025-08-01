@@ -1,6 +1,6 @@
 # Portfolio of Thomas Bekhor - updated in July 2025
 
-Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Institute, São Paulo. This portfolio brings together some of the most significant projects I have developed throughout my academic and professional journey. 
+Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Institute, São Paulo. This portfolio brings together some of the most significant projects, in softwrare and hardware, that I have developed throughout my academic and professional journey. They envolve Computer Vision, Robotics, IoT,  Embedded Systems, Digital twin and Data Science.
 
 ---
 
