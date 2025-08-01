@@ -1,11 +1,47 @@
 # Portfolio of Thomas Bekhor - updated in July 2025
 
-Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Institute, São Paulo. This portfolio brings together some of the most significant projects I have developed throughout my academic and professional journey.
+Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Institute, São Paulo. This portfolio brings together some of the most significant projects I have developed throughout my academic and professional journey. 
 
 ---
 
 ## Projects
 
+### [Word Search Puzzle Solver - July 2024](https://github.com/thomasbekhor/Computer-Vision-Project)
+
+**Description:** Development of an image-based word search solver that uses OCR and grid search logic to detect and highlight target words in a word puzzle image.
+
+**Technologies Used:** Python, OpenCV, Pytesseract, NumPy, Matplotlib.
+
+**Challenges and Solutions:**
+
+* **Letter Recognition:** Used OCR and preprocessing to extract a clean character matrix from noisy images.
+* **Directional Word Search:** Implemented an 8-directional search algorithm to locate words in all possible orientations.
+* **Visualization:** Highlighted found words directly on the image using colored bounding boxes.
+
+**Results:** Accurate and visual solver capable of identifying and displaying word locations in any standard word search puzzle image.
+
+<p align="center">
+<img src="img/WordPuzzleSolver1.png" width="300px" />     <img src="img/WordPuzzleSolver2.png" width="225px" />  <img src="img/WordPuzzleSolver3.png" width="225px" />
+</p>
+
+---
+
+### Rockwell Automation Tool - July 2024
+
+**Description:** Development of an industrial IoT application using ThingWorx to optimize internal processes at Rockwell Automation. The project focused on creating a scalable and flexible software architecture, enabling cross-industry adaptability through object-oriented programming.
+
+**Technologies Used:** ThingWorx, IoT, Object-Oriented Programming, JavaScript, Mashups.
+
+**Challenges and Solutions:**
+
+* **Generic and Scalable Design:** Designed a modular and reusable codebase using object-oriented principles, allowing easy adaptation to different industrial scenarios.
+* **Cross-Industry Compatibility:** Built a flexible class structure that abstracts key functionalities, reducing rework when applying the solution to similar processes in other industries.
+
+**Results:** Successfully delivered a multi-industrial IoT solution that reduces development time for new applications and improves process efficiency through reusable logic and components.
+
+***Final result link:*** [https://youtu.be/tuvdFR9VjmY](https://youtu.be/tuvdFR9VjmY)
+
+---
 
 ### [Chess-Playing Robot - December 2023](https://github.com/thomasbekhor/Robotic-Chess-Player)
 
