@@ -77,7 +77,7 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 **Results:** Functional prototype capable of controlling lights remotely and automatically, enhancing energy efficiency and user convenience.
 
 <p align="center">
-<img src="img/Pipetadora_automatica.jpg" width="300px" />     <img src="img/Pipetadora_automatica_2.jpg" width="225px" />
+<img src="img/app.jpg" width="300px" />     <img src="img/Circuit.jpg" width="225px" />
 </p>
 
 ---
