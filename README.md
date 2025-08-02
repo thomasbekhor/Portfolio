@@ -62,6 +62,24 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 
 ***Final result link:*** [https://youtu.be/tuvdFR9VjmY](https://youtu.be/tuvdFR9VjmY)
 
+
+### [IoT Smart House - July 2025](https://github.com/thomasbekhor/IoT-Smart-Home)
+
+**Description:** Development of a smart lighting control system using IoT to simulate home automation via a web interface and motion detection.
+
+**Technologies Used:** Raspberry Pi, Python, AWS IoT Core, MQTT, Streamlit.
+
+**Challenges and Solutions:**
+
+* **Secure Communication:** Implementation of encrypted MQTT communication with AWS using certificates.
+* **Hardware Integration:** Coordination between motion sensors and web-triggered LED circuits.
+
+**Results:** Functional prototype capable of controlling lights remotely and automatically, enhancing energy efficiency and user convenience.
+
+<p align="center">
+<img src="img/Pipetadora_automatica.jpg" width="300px" />     <img src="img/Pipetadora_automatica_2.jpg" width="225px" />
+</p>
+
 ---
 
 ## Projects - Embedded Systems
