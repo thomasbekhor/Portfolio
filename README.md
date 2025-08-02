@@ -62,6 +62,7 @@ Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Inst
 
 ***Final result link:*** [https://youtu.be/tuvdFR9VjmY](https://youtu.be/tuvdFR9VjmY)
 
+---
 
 ### [IoT Smart House - July 2025](https://github.com/thomasbekhor/IoT-Smart-Home)
 
