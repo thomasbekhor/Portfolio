@@ -1,0 +1,176 @@
+# Portfolio of Thomas Bekhor - updated in July 2025
+
+Welcome to my portfolio! I am a Mechatronics Engineer graduated from Insper Institute, São Paulo (Brazil). This portfolio brings together some of the most significant projects in software and hardware that I have developed throughout my academic and professional journey. They envolve different areas such as Computer Vision, Robotics, IoT,  Embedded Systems, Digital Twin and Data Science.
+
+---
+
+## Projects - Computer Vision
+
+### [Word Search Puzzle Solver - July 2024](https://github.com/thomasbekhor/Computer-Vision-Project)
+
+**Description:** Development of an image-based word search solver that uses OCR and grid search logic to detect and highlight target words in a word puzzle image.
+
+**Technologies Used:** Python, OpenCV, Pytesseract, NumPy, Matplotlib.
+
+**Challenges and Solutions:**
+
+* **Letter Recognition:** Used OCR and preprocessing to extract a clean character matrix from noisy images.
+* **Directional Word Search:** Implemented an 8-directional search algorithm to locate words in all possible orientations.
+* **Visualization:** Highlighted found words directly on the image using colored bounding boxes.
+
+**Results:** Accurate and visual solver capable of identifying and displaying word locations in any standard word search puzzle image.
+
+<p align="center">
+<img src="img/WordPuzzleSolver1.png" width="300px" />     <img src="img/WordPuzzleSolver2.png" width="225px" />  <img src="img/WordPuzzleSolver3.png" width="225px" />
+</p>
+
+---
+
+### [Chess-Playing Robot - December 2023](https://github.com/thomasbekhor/Robotic-Chess-Player)
+
+**Description:** Development of a chess-playing robot that integrates computer vision and the Stockfish engine to interpret and respond to the opponent's moves.
+
+**Technologies Used:** Python, Computer Vision, Image Processing, Stockfish, UR Robots.
+
+**Challenges and Solutions:**
+
+* **Piece and Position Detection:** Implementation of advanced image processing techniques for high accuracy.
+* **Integration with Stockfish:** Synchronization between piece detection and the chess engine for automated moves.
+
+**Results:** Robot capable of autonomously playing chess with a high level of accuracy.
+
+<p align="center">
+  <img src="img/xadrez.gif" alt="animated" />
+</p>
+
+---
+
+## Projects - IoT
+
+### Rockwell Automation Tool - July 2024
+
+**Description:** Development of an industrial IoT application using ThingWorx to optimize internal processes at Rockwell Automation. The project focused on creating a scalable and flexible software architecture, enabling cross-industry adaptability through object-oriented programming.
+
+**Technologies Used:** ThingWorx, IoT, Object-Oriented Programming, JavaScript, Mashups.
+
+**Challenges and Solutions:**
+
+* **Generic and Scalable Design:** Designed a modular and reusable codebase using object-oriented principles, allowing easy adaptation to different industrial scenarios.
+* **Cross-Industry Compatibility:** Built a flexible class structure that abstracts key functionalities, reducing rework when applying the solution to similar processes in other industries.
+
+**Results:** Successfully delivered a multi-industrial IoT solution that reduces development time for new applications and improves process efficiency through reusable logic and components.
+
+***Final result link:*** [https://youtu.be/tuvdFR9VjmY](https://youtu.be/tuvdFR9VjmY)
+
+---
+
+### [IoT Smart House - July 2025](https://github.com/thomasbekhor/IoT-Smart-Home)
+
+**Description:** Development of a smart lighting control system using IoT to simulate home automation via a web interface and motion detection.
+
+**Technologies Used:** Raspberry Pi, Python, AWS IoT Core, MQTT, Streamlit.
+
+**Challenges and Solutions:**
+
+* **Secure Communication:** Implementation of encrypted MQTT communication with AWS using certificates.
+* **Hardware Integration:** Coordination between motion sensors and web-triggered LED circuits.
+
+**Results:** Functional prototype capable of controlling lights remotely and automatically, enhancing energy efficiency and user convenience.
+
+<p align="center">
+<img src="img/app.jpg" width="300px" />     <img src="img/Circuit.jpg" width="225px" />
+</p>
+
+---
+
+## Projects - Embedded Systems
+
+### [Automatic Pipetting Machine - December 2022](https://github.com/thomasbekhor/Electronic-Pipetting-System)
+
+**Description:** Development of an automatic pipetting machine to optimize laboratory processes.
+
+**Technologies Used:** Precision Mechanics, Integrated Electronics, Software Development.
+
+**Challenges and Solutions:**
+
+* **Mechanical Sizing:** Precise calculations and adjustments during the prototyping phase.
+* **Electronic Integration:** Synchronization between mechanical and electronic components for precise operation.
+
+**Results:** Functional prototype that improves efficiency and accuracy in pipetting processes.
+
+***Final result link:*** [https://youtu.be/ghOscyaO3Fg](https://youtu.be/ghOscyaO3Fg)
+
+<p align="center">
+<img src="img/Pipetadora_automatica.jpg" width="300px" />     <img src="img/Pipetadora_automatica_2.jpg" width="225px" />
+</p>
+
+---
+
+## Projects - Digital Twin
+
+### Assembly Line Automation - July 2023
+
+**Description:** Project focused on optimizing an electronic device assembly line using the Automation Pyramid and the creation of a Digital Twin.
+
+**Technologies Used:** PLCs, SCADA, MES, Digital Twin.
+
+**Challenges and Solutions:**
+
+* **Control System Integration:** Development of solutions for efficient communication between different automation levels.
+* **Digital Twin Creation:** Accurate simulation of the assembly line to optimize processes.
+
+**Results:** Efficient automation system with monitoring and control of availability, performance, and quality.
+
+***Final result link:*** [https://youtu.be/Q_xVt77PHuE](https://youtu.be/Q_xVt77PHuE)
+
+---
+
+## Projects - Data Science
+
+### [Geospatial Analysis of Amazon Deforestation and IBAMA Enforcement - June 2024](https://github.com/thomasbekhor/GeoSpatial-Analytics-for-Amazon-Deforestation)
+
+**Description:**
+A geospatial data science study investigating whether environmental enforcement aligns with the areas most affected by deforestation and fires in the Legal Amazon (2016-2022). By mapping deforestation, fire foci, IBAMA stations, and environmental infractions, the project assesses whether IBAMA's presence matches the regions with the highest incidence of illegal activity.
+
+**Technologies Used:**
+Python, GeoPandas, Shapely, libpysal, esda (Moran's I), contextily, SciPy, Pandas, NumPy, Matplotlib, Seaborn.
+
+**Challenges and Solutions:**
+
+* **Heterogeneous Geospatial Data:** Integrated four distinct datasets (deforestation, fires, IBAMA units, and infractions) by reprojecting them to a common coordinate reference system (EPSG:4674) for consistent spatial analysis.
+* **Quantifying Enforcement Coverage:** Divided the Legal Amazon into a grid of quadrants and combined Moran's I spatial autocorrelation with distance-to-IBAMA correlations to measure how enforcement presence relates to environmental damage.
+
+**Results:**
+Found moderate negative correlations between proximity to IBAMA units and both deforestation (~-0.56) and fire (~-0.54) counts, suggesting that enforcement presence is associated with fewer environmental incidents and could help guide the spatial allocation of monitoring resources.
+
+<p align="center">
+<img src="img/infogeo_desmatamento.png" width="300px" />     <img src="img/infogeo_queimadas.png" width="300px" />
+</p>
+<p align="center">
+<img src="img/infogeo_quadrantes.png" width="600px" />
+</p>
+
+---
+
+### [Junior Consulting Club - Exploratory Analysis and Predictive Modeling - December 2022](https://github.com/thomasbekhor/Exploratory-and-Predictive-Analysis)
+
+**Description:**
+This project focuses on understanding and predicting property prices in São Paulo through **exploratory data analysis** and **machine learning**. The main goal is to extract insights from real estate data and build models that can forecast property values effectively.
+
+**Technologies Used:**
+Python, Pandas, Scikit-learn, Random Forest, Data Visualization
+
+**Challenges and Solutions:**
+
+* **Data Segmentation:** Divided and analyzed the dataset by key variables (e.g., neighborhood, size, price range) to identify trends and improve model performance.
+* **Model Selection:** Tested multiple machine learning models, comparing their accuracy and interpretability. Chose Random Forest for its balance between performance and robustness.
+
+**Results:**
+The final model accurately predicts housing prices and reveals valuable patterns in São Paulo’s real estate market, supporting better decision-making for buyers, sellers, or investors.
+
+---
+
+## Contact
+
+* [LinkedIn](https://www.linkedin.com/in/thomas-bekhor/)
+* [GitHub](https://github.com/thomasbekhor)
